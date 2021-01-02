@@ -17,3 +17,9 @@ Preprocessing:
 Finally:
 ![procesamiento final](https://user-images.githubusercontent.com/66931754/103449277-ac987a00-4c84-11eb-9dd2-27f47e69d24d.gif )
 
+---------------------------------------------------------------------
+### Español 
+
+Se procesa video (o cámara en tiempo real) del tráfico. 
+Se hace un conteo de la cantidad de vehíchulos que se dirigen al norte, al sur y en total.
+Además se genera un archivo csv que guarda dichos datos (cantidad de vehiculos, hora, dirección)
