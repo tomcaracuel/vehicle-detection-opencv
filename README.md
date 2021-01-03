@@ -15,7 +15,8 @@ Preprocessing:
 
 
 Finally:
-![procesamiento final](https://user-images.githubusercontent.com/66931754/103449277-ac987a00-4c84-11eb-9dd2-27f47e69d24d.gif )
+![final best_1](https://user-images.githubusercontent.com/66931754/103488659-3a8f7480-4ded-11eb-8ee2-ac676efc7911.gif)
+
 
 ---------------------------------------------------------------------
 ### Español 
